@@ -1,4 +1,4 @@
-```#!/bin/bash
+``` #!/bin/bash
 
 # Function to install on Debian/Ubuntu
 install_debian_ubuntu() {
